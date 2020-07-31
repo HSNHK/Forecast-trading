@@ -35,9 +35,31 @@ clf.fit(x,y)
 clf.predict(~)
 
 ```
+## Sample Pattern
+
+1:0:1:0:0<br>
+1:1:1:0:0<br>
+1:0:1:0:1<br>
+1:1:0:1:1<br>
+0:0:1:0:0<br>
+0:1:0:0:1<br>
+1:0:1:0:0<br>
+1:0:0:0:0<br>
+1:2:2:2:1<br>
+3:3:3:3:0<br>
+2:1:2:1:1<br>
+3:3:2:2:0<br>
+3:3:2:2:1<br>
+
+```python
+for i in data:
+            #sampel = 3:3:2:2:1
+            pag_data=i.split(':')
+            x.append(pag_data[:4]) # 3:3:2:2 = 4 The first index for x
+            y.append(pag_data[4])  # 1 = Last index for y
+```
 
 ## Programer
-
 Hassan Mohammdi
 from iran
 
