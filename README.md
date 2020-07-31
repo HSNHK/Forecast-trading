@@ -60,11 +60,11 @@ for i in data:
 ```
 
 ## Programer
-Hassan Mohammdi
-from iran
+Hassan Mohammdi<br>
+from❤iran 
 
 ## Image
 <p align="center">
-  <img src="https://github.com/HSNHK/Forecast-trading/blob/master/2020-07-31-14-14-11(1).png" width="350" title="hover text">
-  <img src="https://github.com/HSNHK/Forecast-trading/blob/master/2020-07-31-14-14-04(3).png" width="350" alt="accessibility text">
+  <img src="https://github.com/HSNHK/Forecast-trading/blob/master/2020-07-31-14-14-11(1).png" width="250" title="hover text">
+  <img src="https://github.com/HSNHK/Forecast-trading/blob/master/2020-07-31-14-14-04(3).png" width="250" alt="accessibility text">
 </p>
