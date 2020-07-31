@@ -41,5 +41,8 @@ clf.predict(~)
 Hassan Mohammdi
 from iran
 
+## Image
+![alt text](https://github.com/HSNHK/Forecast-trading/blob/[master]/2020-07-31-14-14-11(1).png?raw=true)
+![alt text](https://github.com/HSNHK/Forecast-trading/blob/[master]/2020-07-31-14-14-04(3).png?raw=true)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
