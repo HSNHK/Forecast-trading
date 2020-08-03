@@ -1,6 +1,5 @@
 # Just for fun
 
-😂😂 صرفا برای خنده 
 
 This project is for the second semester student of Android programming course.
 The overall plan of the project is that we teach this pattern to the machine and the machine guesses what will happen in the future.
